@@ -7,5 +7,8 @@
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img title="🔥 "  src="https://github-readme-streak-stats.herokuapp.com/?user=arlidge&theme=gotham&hide_border=true"/></a>
 </p>
+<p align="center">
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlidge)](https://github.com/anuraghazra/github-readme-stats)
+	</p>
+	
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlidge)](https://github.com/anuraghazra/github-readme-stats)
