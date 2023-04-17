@@ -1,6 +1,6 @@
-
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=arlidge&theme=solarized-dark&date_format=j%20M%5B%20Y%5D&fire=EB0F00)](https://git.io/streak-stats)
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img title="🔥 "  src="https://github-readme-streak-stats.herokuapp.com/?user=arlidge&theme=monokai-metallian&hide_border=true"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlidge)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arlidge)](https://github.com/anuraghazra/github-readme-stats)
